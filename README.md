@@ -16,3 +16,8 @@ Un sistema de alarma es un elemento de seguridad pasiva. Esto significa que no e
 El objetivo del programa es simular una alarma usando un REED SWITCH y un BUZZER. Si el campo magnético del REED SWITCH es interferido por alguna señal (en este caso el iman), envía una señal al BUZZER y al LED para que enciende simulando la alarma con sonido y luz.
 
 ![Imagen Arduino](Diagrama.jpeg "Foto Diagrama")
+![Imagen Arduino](resultado.jpeg "Resultado")
+![Imagen Arduino](resultado2.jpeg "Resultado 2")
+![Imagen Arduino](resultado3.jpeg "Resultado 3")
+![Imagen Arduino](resultado4.jpeg "Resultado 4")
+![Imagen Arduino](resultado5.jpeg "Resultado 5")
